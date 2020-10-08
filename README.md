@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Movie listing application
+
+This is a simple React application that demonstrates lazy loading and code splitting. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo of this application
 <p align="center">
