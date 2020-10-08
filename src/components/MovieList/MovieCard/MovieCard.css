@@ -1,0 +1,19 @@
+.movie-card {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    border: 0;
+    display: block;
+    transition: all .3s ease-out;
+    cursor: pointer;
+}
+
+.movie-card img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.movie-card:hover {
+    transform: scale(1.10);
+}
