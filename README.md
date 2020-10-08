@@ -4,7 +4,7 @@ This is a simple React application that demonstrates lazy loading and code split
 
 ## Demo of this application
 <p align="center">
-  
+  <img src="https://github.com/PrasathRavichandran/lazy-loading-code-splitting/blob/main/Final-output.gif"/>
 </p>
 
 ## Available Scripts
